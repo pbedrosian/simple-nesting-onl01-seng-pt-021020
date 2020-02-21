@@ -85,7 +85,7 @@ def adding_matz
         }
      }
 
-programmer_hash[:newly-added-to] = "yukihiro_matsumoto"
+programmer_hash[:adding_matz] = "yukihiro_matsumoto"
 end
 
 def changing_alan
